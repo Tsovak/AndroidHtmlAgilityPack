@@ -1,0 +1,11 @@
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.XML
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.dll
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\obj\Debug\HtmlAgilityPack.pdb
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll.mdb
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.HtmlAgilityPack.apk
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\bin\Debug\HtmlAgilityPack.HtmlAgilityPack-Signed.apk
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\obj\Debug\android\bin\HtmlAgilityPack.HtmlAgilityPack.apk
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\obj\Debug\R.cs.flag
+D:\все для диплома\htmlagilitypack-98677\Release\1_4_0\HtmlAgilityPack\obj\Debug\uploadflags.txt
